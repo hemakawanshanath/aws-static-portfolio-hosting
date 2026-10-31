@@ -1,0 +1,15 @@
+[
+  {
+    "type": "University project",
+    "title": "LiteCode",
+    "description": "A collaborative Android application developed for the IS2205 Mobile Application Design and Development module at UCSC.",
+    "technologies": [
+      "Kotlin",
+      "Android Studio",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "githubUrl": "https://github.com/Supu-cloud/Lite-Code---IS2205-MAD-mini-project"
+  }
+]
