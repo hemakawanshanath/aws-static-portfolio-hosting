@@ -10,6 +10,10 @@ Amazon CloudFront serves the website to visitors over HTTPS, while Origin Access
 
 ## Live Demo
 
+**Website:** https://dqj0gmpcq74b8.cloudfront.net
+
+## Architecture
+
 ```mermaid
 flowchart TD
     A[Website Visitor] -->|HTTPS Request| B[Amazon CloudFront]
@@ -17,9 +21,6 @@ flowchart TD
     C -->|Website Files| B
     B -->|Website Content| A
 ```
-## Architecture
-
-![Architecture](docs/screenshots/07-Architrcture.png)
 
 ## AWS Services Used
 
