@@ -14,13 +14,7 @@ Amazon CloudFront serves the website to visitors over HTTPS, while Origin Access
 
 ## Architecture
 
-```mermaid
-flowchart TD
-    A[Website Visitor] -->|HTTPS Request| B[Amazon CloudFront]
-    B -->|Signed Request using OAC| C[Private Amazon S3 Bucket]
-    C -->|Website Files| B
-    B -->|Website Content| A
-```
+![Architecture](docs/screenshots/07-Architrcture.png)
 
 ## AWS Services Used
 
