@@ -1,4 +1,21 @@
+
 [
+  {
+    "type": "Personal project",
+    "title": "AWS Static Website Hosting",
+    "description": "Hosted a static website using Amazon S3 and CloudFront, with a private S3 bucket secured through Origin Access Control (OAC).",
+    "technologies": [
+      "AWS",
+      "Amazon S3",
+      "Amazon CloudFront",
+      "Origin Access Control",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "githubUrl": "https://github.com/hemakawanshanath/aws-static-portfolio-hosting",
+    "liveUrl": "https://dqj0gmpcq74b8.cloudfront.net"
+  },
   {
     "type": "University project",
     "title": "LiteCode",
